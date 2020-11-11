@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1605124704 source:c:\users\admin\desktop\my project\computer store management\computer store management\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1605128676 source:c:\users\admin\desktop\my project\computer store management\computer store management\src.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1605105043 source:c:\users\admin\desktop\my project\computer store management\computer store management\test\test.c
+
+1605092975 source:c:\users\admin\desktop\my project\computer store management\computer store management\src\src.c
+
+1605093399 source:c:\users\admin\desktop\my project\computer store management\computer store management\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1605104691 c:\users\admin\desktop\my project\computer store management\computer store management\unity\unity.h
+	"unity_internals.h"
+	"unity.h"
+
+1605090056 c:\users\admin\desktop\my project\computer store management\computer store management\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
