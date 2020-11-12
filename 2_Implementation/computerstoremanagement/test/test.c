@@ -18,4 +18,5 @@ int test_main(void)
 
 /* Run Test functions */
   RUN_TEST(test_enterchoice);
-
+ return UNITY_END();
+}
