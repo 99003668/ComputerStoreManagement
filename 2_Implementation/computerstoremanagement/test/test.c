@@ -8,7 +8,7 @@ void tearDown(){}
 
 void test_enterchoice(void)
 {
-  TEST_ASSERT(enterchoice(1));
+  TEST_ASSERT_EQUAL(2,enterchoice(2));
 }
 
 int test_main(void)
@@ -20,3 +20,4 @@ int test_main(void)
   RUN_TEST(test_enterchoice);
  return UNITY_END();
 }
+
